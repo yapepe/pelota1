@@ -1,0 +1,22 @@
+body {
+  margin: 0px;
+  border: 0px;
+  overflow: hidden;
+}
+
+#pelota1 {
+  font-size: 100px;
+  top: 0;
+  position: absolute;
+  display: inline;
+  margin: 0;
+}
+
+#pelota2 {
+  font-size: 100px;
+  top: 0;
+  position: absolute;
+  display: inline;
+  margin: 0;
+}
+/*# sourceMappingURL=estilos.css.map */
